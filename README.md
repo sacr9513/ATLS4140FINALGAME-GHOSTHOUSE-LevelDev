@@ -1,3 +1,22 @@
+Update 11/30/2020- Sammie
+
+- Added Levels and Prefab pick ups.
+- Constructed Puzzles (still needs more work though) 
+- changed camera angles at some points to help with ability to complete level
+- Compiled Shaders
+- imported assets
+
+
+NEED TO DO: 
+- Enemies
+- Flashlight functionality? 
+- Camera Orbit???
+- Rotating Walls for Third Level Puzzle
+- Level Progression- Moving from one level to another as they're completed
+- UI
+- SOund Effects
+
+
 MOVEMENT SYSTEM FEATURES AND GOALS:
 
 
